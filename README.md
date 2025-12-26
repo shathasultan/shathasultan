@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="Black and White Corporate Name Twitter Header.gif" width="100%" />
+  <img src="header.gif" width="100%" />
 </p>
 
 # Hi there, I'm Shaza 👋
-### Web Application & Website Developer
+### Web Application & Website Developer 💻
 
 ---
 
@@ -12,6 +12,7 @@ I'm a passionate developer focused on building modern web applications and inter
 
 ### 🛠 Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript
+* **Backend:** Node.js (أو اللغات التي تتقنينها)
 * **Tools:** Git, GitHub, VS Code
 
 ### 📫 Connect with me
