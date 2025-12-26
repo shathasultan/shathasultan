@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="Black and White Corporate Name Twitter Header.gif" width="100%" />
+</p>
 
-<!--
-**shathasultan/shathasultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Shaza 👋
+### Web Application & Website Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm a passionate developer focused on building modern web applications and interactive websites. 
+
+### 🛠 Tech Stack
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Tools:** Git, GitHub, VS Code
+
+### 📫 Connect with me
+[LinkedIn](رابط-حسابك-هنا) | [Email](mailto:ايميلك-هنا)
